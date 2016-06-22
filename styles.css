@@ -3,18 +3,18 @@ body {
 }
 
 .teal {
-  color: #008EB0;
+  color: #4F80A4;
 }
 
 .green {
-  color: #27B67C;
+  color: #8ec493;
 }
 
 .email-container {
   font-family: arial, sans-serif;
   font-size: 12px;
   width: 600px;
-  height: 330px;
+  height: 400px;
   border: 1px solid #eee;
   border-radius: 10px;
   margin: 40px auto;
@@ -43,7 +43,8 @@ body {
 }
 
 .signature #logo {
-  max-height: 42px;
+  max-height: 70px;
+  margin-top: 6px;
 }
 
 .signature .logo-cell {
@@ -53,7 +54,6 @@ body {
 
 .signature .contact-details {
   vertical-align: top;
-  padding: 2px 18px;
   color: #A5A5A5;
   font-size: 11px;
 }
